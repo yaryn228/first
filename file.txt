@@ -1,2 +1,3 @@
 Fixing a bag
 Hello from IDE!
+Changes made in GitHub cloud
