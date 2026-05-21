@@ -1,1 +1,2 @@
 Fixing a bag
+Hello from IDE!
